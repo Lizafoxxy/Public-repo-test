@@ -1,2 +1,3 @@
 This is a text file for GIT
 Changes are made.
+On January 12 changes are made again.
